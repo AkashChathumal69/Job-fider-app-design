@@ -35,8 +35,7 @@
 2. Open the project files in Figma or other compatible tools.
 3. Explore the design elements and customize as needed.
     </pre>
-
-    <p>For any issues or contributions, feel free to contact the team.</p>
+<p>For any issues or contributions, feel free to contact the team.</p>
   </div>
 </body>
 </html>
